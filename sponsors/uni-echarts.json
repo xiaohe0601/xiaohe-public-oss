@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "插件市场匿名用户",
+    "amount": "0.30",
+    "date": "2025-02-06"
+  },
+  {
+    "id": 2,
+    "name": "Ethan Yin",
+    "url": "https://blog.csdn.net/qq_39370934",
+    "amount": "1.66",
+    "message": "👍👍👍",
+    "date": "2025-02-13"
+  },
+  {
+    "id": 3,
+    "name": "周周",
+    "url": "https://github.com/12lulu6",
+    "amount": "10.00",
+    "date": "2025-02-18"
+  }
+]
