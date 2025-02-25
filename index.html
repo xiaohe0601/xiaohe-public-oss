@@ -1,11 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
+    <meta name="viewport"
+          content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,viewport-fit=cover" />
+
     <title>xiaohe-public-oss</title>
+
+    <style>
+      * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+      }
+
+      html {
+        font-family: MiSans, Inter, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+      }
+
+      html, body, .container {
+        width: 100%;
+        height: 100%;
+      }
+
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .title {
+        font-size: 60px;
+        font-weight: bold;
+        color: transparent;
+        background: linear-gradient(45deg, #ff7f50, #6a5acd, #3cb371, #ff6347);
+        background-clip: text;
+        background-size: 400% 400%;
+        animation: gradient 4s ease infinite;
+      }
+
+      @keyframes gradient {
+        0% {
+          background-position: 0 50%;
+        }
+
+        50% {
+          background-position: 100% 50%;
+        }
+
+        100% {
+          background-position: 0 50%;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .title {
+          font-size: 32px;
+        }
+      }
+    </style>
   </head>
 
   <body>
-    <p>如果你看到这个网站的话，说明这个网站被你看到咯~</p>
+    <div class="container">
+      <h1 class="title">Xiaohe Public OSS</h1>
+    </div>
   </body>
 </html>
