@@ -14,17 +14,17 @@
     "link": "https://uni-ku.js.org"
   },
   {
-    "id": "nutui-uniapp",
-    "icon": "https://oss.xiaohe.ink/images/nutui-uniapp.png",
-    "title": "NutUI Uniapp",
-    "details": "京东风格的轻量级移动端组件库",
-    "link": "https://nutui-uniapp.pages.dev"
-  },
-  {
     "id": "wot-ui",
     "icon": "https://oss.xiaohe.ink/images/wot-ui.png",
     "title": "Wot UI",
     "details": "高颜值、轻量化的 uni-app 组件库",
     "link": "https://wot-ui.cn"
+  },
+  {
+    "id": "nutui-uniapp",
+    "icon": "https://oss.xiaohe.ink/images/nutui-uniapp.png",
+    "title": "NutUI Uniapp",
+    "details": "京东风格的轻量级移动端组件库",
+    "link": "https://nutui-uniapp.pages.dev"
   }
 ]
