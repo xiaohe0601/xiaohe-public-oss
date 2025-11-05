@@ -26,5 +26,13 @@
     "amount": "5.00",
     "message": "这个插件真好用",
     "date": "2025-03-06"
+  },
+  {
+    "id": 5,
+    "name": "坤坤",
+    "url": "https://github.com/Kforward",
+    "amount": "5.00",
+    "message": "居然还支持鸿蒙，期待作者后续其他的插件！",
+    "date": "2025-11-05"
   }
 ]
