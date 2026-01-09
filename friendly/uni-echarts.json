@@ -4,14 +4,7 @@
     "icon": "https://oss.xiaohe.ink/images/uni-helper.png",
     "title": "Uni Helper",
     "details": "旨在增强 uni-app 系列产品的开发体验",
-    "link": "https://uni-helper.js.org"
-  },
-  {
-    "id": "uni-ku",
-    "icon": "https://oss.xiaohe.ink/images/uni-ku.png",
-    "title": "Uni Ku",
-    "details": "有很多 Uniapp(Uni) 的酷(Ku) 😎",
-    "link": "https://uni-ku.js.org"
+    "link": "https://uni-helper.cn"
   },
   {
     "id": "wot-ui",
@@ -23,7 +16,7 @@
   {
     "id": "nutui-uniapp",
     "icon": "https://oss.xiaohe.ink/images/nutui-uniapp.png",
-    "title": "NutUI Uniapp",
+    "title": "NutUI（uni-app）",
     "details": "京东风格的轻量级移动端组件库",
     "link": "https://nutui-uniapp.pages.dev"
   }
